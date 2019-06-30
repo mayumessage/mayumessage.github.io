@@ -4297,15 +4297,11 @@ body {
   padding: 5px 0; }
 
 .sidebar-box {
-  max-height: 391px;
   position: relative;
   overflow: hidden; }
   .sidebar-box.active {
     max-height: none;
     overflow: visible; }
-  @media only screen and (max-width: 1117px) {
-    .sidebar-box {
-      max-height: 290px; } }
 
 .more-arrow {
   padding-left: 10px; }
